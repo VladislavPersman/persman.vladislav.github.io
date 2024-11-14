@@ -34,6 +34,12 @@ body {
     padding-right: 40px;
 }
 
+.page-header_logo
+{
+    flex-shrink: 0;
+    width: 202px;
+    height: 147px;
+}
 .main{
     background-color: bisque;
     flex: 1 0 auto;
